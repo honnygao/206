@@ -7,4 +7,11 @@ create a new branch.
 dev分支改了这个文件
 修改了一些代码
 lcl改了这个代码
+<<<<<<< HEAD
 修改
+=======
+honnygao改了这个代码
+周峰改了这个代码
+周峰又改了
+honnygao又改了
+>>>>>>> a9997ebabcc97273e6f5dd4f271e7c0c1ef62281
